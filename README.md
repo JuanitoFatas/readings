@@ -1,5 +1,9 @@
 # Selective Readings
 
+[Greatest Hits](http://www.kalzumeus.com/greatest-hits) from Patrick McKenzie.
+
+## Handbooks
+
 - [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
 - [VALVE handbook for new employees](http://media.steampowered.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
 
