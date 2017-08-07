@@ -14,3 +14,11 @@
 - [Show How, Don't Tell What - A Management Style](http://2ndscale.com/rtomayko/2012/management-style)
 - [Engineering Management](http://algeri-wong.com/yishan/engineering-management.html) by Yishan Wong, ex-Facebook Engineering
 - [101 Qs to Ask in 1-1](https://jasonevanish.com/2014/05/29/101-questions-to-ask-in-1-on-1s)
+- [44 engineering management lessons](http://www.defmacro.org/2014/10/03/engman.html)
+
+## Writings
+
+Books: [The Element of Style][teos], [On Writing Well][owl]
+
+[teos]: https://en.wikipedia.org/wiki/The_Elements_of_Style
+[owl]: https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548
