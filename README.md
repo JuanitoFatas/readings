@@ -22,3 +22,12 @@ Books: [The Element of Style][teos], [On Writing Well][owl]
 
 [teos]: https://en.wikipedia.org/wiki/The_Elements_of_Style
 [owl]: https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548
+
+## Books
+
+- [Rework](https://37signals.com/rework), [Remote](https://37signals.com/remote)
+- [Surely You're Joking, Mr. Feynman!](https://en.wikipedia.org/wiki/Surely_You%27re_Joking,_Mr._Feynman!)
+
+## Science
+
+- [Cargo Cult Science by RICHARD P. FEYNMAN](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
