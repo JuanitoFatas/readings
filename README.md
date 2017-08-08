@@ -35,3 +35,7 @@ Books: [The Element of Style][teos], [On Writing Well][owl]
 ## Open Source
 
 - [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
+
+## Blogs
+
+- [Coding Horror](https://blog.codinghorror.com/)
