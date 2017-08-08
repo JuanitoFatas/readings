@@ -31,3 +31,7 @@ Books: [The Element of Style][teos], [On Writing Well][owl]
 ## Science
 
 - [Cargo Cult Science by RICHARD P. FEYNMAN](http://calteches.library.caltech.edu/51/2/CargoCult.htm)
+
+## Open Source
+
+- [Open Source Contribution Etiquette](http://tirania.org/blog/archive/2010/Dec-31.html)
