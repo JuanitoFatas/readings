@@ -42,3 +42,7 @@ Books: [The Element of Style][teos], [On Writing Well][owl]
 - [Paul Graham](https://paulgraham.com)
 - [Coding Horror](https://blog.codinghorror.com)
 - [Zach Holman](https://zachholman.com)
+
+## Ruby
+
+- [Ruby's all weird things](https://idiosyncratic-ruby.com/)
