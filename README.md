@@ -1,11 +1,11 @@
 # Selective Readings
 
-[Greatest Hits](http://www.kalzumeus.com/greatest-hits) from Patrick McKenzie.
-
 ## Handbooks
 
 - [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
 - [VALVE handbook for new employees](http://media.steampowered.com/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [Barsoom developers's handbook](https://github.com/barsoom/devbook)
+- [Thoughtbot's guides](https://github.com/thoughtbot/guides)
 
 ## Management
 
@@ -38,4 +38,7 @@ Books: [The Element of Style][teos], [On Writing Well][owl]
 
 ## Blogs
 
-- [Coding Horror](https://blog.codinghorror.com/)
+- [Patrick McKenzie](http://www.kalzumeus.com)
+- [Paul Graham](https://paulgraham.com)
+- [Coding Horror](https://blog.codinghorror.com)
+- [Zach Holman](https://zachholman.com)
