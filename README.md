@@ -1,5 +1,10 @@
 # Selective Readings
 
+## Stories
+
+- [The Original Macintosh](https://www.folklore.org) - Anecdotes about the development of Apple's
+  original Macintosh, and the people who made it
+
 ## Handbooks
 
 - [Basecamp Employee Handbook](https://github.com/basecamp/handbook)
