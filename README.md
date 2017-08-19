@@ -14,6 +14,8 @@
 
 ## Management
 
+- [WIR: Week In Review](http://www.mikemcgarr.com/blog/week-in-review.html) - How Manager shares
+  information to team members
 - [Your team should work like an open source project](http://2ndscale.com/rtomayko/2012/adopt-an-open-source-process-constraints)
 - [My best manager did this...](http://ask.metafilter.com/300002/My-best-manager-did-this)
 - [Show How, Don't Tell What - A Management Style](http://2ndscale.com/rtomayko/2012/management-style)
